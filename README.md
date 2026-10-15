@@ -117,6 +117,7 @@ Selected projects from our wider directory. These descriptions summarize our sou
 Agent tools differ in wallet permissions and execution controls. Review wallet permissions and contract deployments in the project’s documentation before granting access.
 
 - [Aeron](https://github.com/aeronlabs): Agent software and public repositories for real-world assets.
+- [BlockVectra MCP server](https://docs.blockvectra.com/en/guides/mcp-server/?utm_source=hoodl2_awesome_robinhood_chain&utm_medium=directory&utm_campaign=2026-10-robinhood-mcp) - Hosted MCP for Robinhood Chain agent docs, chain discovery and permitted public RPC reads; indexed Data API needs an API key.
 - [Project:VEX](https://www.projectvex.ai): Desktop agent for crypto research and onchain execution.
 - [bankrbot](https://bankr.bot): Conversational trading, swaps and token limit orders.
 - [Sherwood Protocol](https://sherwood.sh): Vault infrastructure for agent-operated DeFi strategies.
