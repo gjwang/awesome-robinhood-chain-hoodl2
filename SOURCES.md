@@ -59,3 +59,4 @@ The banner uses HoodL2’s colors and Space Grotesk, distributed under the [SIL 
 
 The proposed entry is first-party and does not imply Robinhood endorsement. Public RPC is rate-limited; indexed Data API and account tools require an API key and follow current plans and limits.
 
+Navigation update — 20 October 2026: the README now uses canonical documentation URLs without tracking parameters and links directly to the mainnet RPC and testnet starter guides listed above. This navigation-only update was reconciled offline against the published documentation source; it does not change the 15 October source-check dates or assert a new live service test.
